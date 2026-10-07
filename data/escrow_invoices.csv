@@ -1,0 +1,151 @@
+invoice_id,received_date,processed_date,loan_type,investor_coded,payee_type,invoice_amount,approval_days,processing_days,status
+INV-00001,2026-06-17,2026-06-21,Conventional,Y,Servicing Agent,4308.69,3,4,Disbursed
+INV-00002,2026-08-21,2026-08-24,Conventional,N,Servicing Agent,898.12,0,3,Disbursed
+INV-00003,2026-03-05,2026-03-06,Conventional,N,Vendor,1639.58,0,1,Disbursed
+INV-00004,2026-06-04,,FHA,Y,Vendor,1975.55,1,,Pending
+INV-00005,2026-03-01,2026-03-03,Conventional,N,Vendor,915.79,0,2,Disbursed
+INV-00006,2026-08-09,2026-08-13,FHA,Y,Servicing Agent,6042.73,3,4,Discarded-Duplicate
+INV-00007,2026-04-11,2026-04-17,FHA,Y,Servicing Agent,4471.75,3,6,Disbursed
+INV-00008,2026-01-16,2026-01-18,Conventional,N,Servicing Agent,2573.74,0,2,Disbursed
+INV-00009,2026-05-01,2026-05-03,FHA,N,Vendor,1575.62,0,2,Disbursed
+INV-00010,2026-03-14,,Conventional,N,Servicing Agent,3474.72,0,,Pending
+INV-00011,2026-03-08,2026-03-14,VA,Y,Servicing Agent,4354.99,4,6,Disbursed
+INV-00012,2026-08-08,2026-08-09,Conventional,N,Vendor,2696.81,0,1,Disbursed
+INV-00013,2026-01-21,2026-01-29,Conventional,Y,Vendor,2664.45,5,8,Disbursed
+INV-00014,2026-08-27,2026-08-28,Conventional,N,Servicing Agent,4708.19,0,1,Disbursed
+INV-00015,2026-05-22,2026-05-29,FHA,Y,Vendor,1633.03,5,7,Disbursed
+INV-00016,2026-02-09,2026-02-10,Conventional,N,Servicing Agent,1244.12,0,1,Resubmitted
+INV-00017,2026-02-14,2026-02-16,Conventional,N,Vendor,2582.47,0,2,Disbursed
+INV-00018,2026-05-04,2026-05-07,VA,N,Servicing Agent,4338.01,0,3,Disbursed
+INV-00019,2026-05-22,2026-05-25,Conventional,N,Vendor,2893.38,0,3,Disbursed
+INV-00020,2026-05-01,2026-05-07,Conventional,Y,Servicing Agent,5442.53,3,6,Resubmitted
+INV-00021,2026-03-22,2026-03-25,Conventional,N,Servicing Agent,2537.4,0,3,Disbursed
+INV-00022,2026-02-15,2026-02-18,VA,N,Vendor,3208.34,0,3,Disbursed
+INV-00023,2026-02-02,2026-02-04,Conventional,N,Servicing Agent,5486.36,0,2,Disbursed
+INV-00024,2026-09-04,2026-09-09,VA,Y,Servicing Agent,1101.09,4,5,Resubmitted
+INV-00025,2026-05-06,2026-05-07,VA,N,Vendor,5991.52,0,1,Disbursed
+INV-00026,2026-08-30,,Conventional,N,Vendor,2684.1,0,,Pending
+INV-00027,2026-06-25,2026-06-27,FHA,N,Servicing Agent,1800.25,0,2,Disbursed
+INV-00028,2026-01-21,2026-01-29,VA,Y,Servicing Agent,392.07,5,8,Disbursed
+INV-00029,2026-07-05,2026-07-06,Conventional,N,Vendor,764.52,0,1,Disbursed
+INV-00030,2026-03-06,2026-03-11,Conventional,Y,Vendor,1771.53,4,5,Disbursed
+INV-00031,2026-05-06,2026-05-07,Conventional,N,Vendor,2422.64,0,1,Disbursed
+INV-00032,2026-04-20,2026-04-23,VA,N,Servicing Agent,704.58,0,3,Disbursed
+INV-00033,2026-07-10,2026-07-12,Conventional,Y,Vendor,1170.07,1,2,Disbursed
+INV-00034,2026-02-20,2026-02-23,VA,Y,Servicing Agent,645.94,2,3,Disbursed
+INV-00035,2026-05-23,2026-05-24,Conventional,N,Servicing Agent,2727.52,0,1,Resubmitted
+INV-00036,2026-05-08,2026-05-13,FHA,Y,Servicing Agent,6114.06,4,5,Disbursed
+INV-00037,2026-03-13,2026-03-15,FHA,N,Vendor,1255.56,0,2,Disbursed
+INV-00038,2026-03-21,2026-03-25,VA,Y,Servicing Agent,4725.66,1,4,Discarded-Duplicate
+INV-00039,2026-01-19,2026-01-26,Conventional,Y,Servicing Agent,5970.56,4,7,Disbursed
+INV-00040,2026-01-25,2026-01-26,Conventional,N,Servicing Agent,2712.09,0,1,Disbursed
+INV-00041,2026-09-03,2026-09-04,VA,N,Servicing Agent,3973.38,0,1,Disbursed
+INV-00042,2026-04-22,2026-04-25,FHA,N,Vendor,1544.92,0,3,Disbursed
+INV-00043,2026-07-07,2026-07-12,VA,Y,Vendor,3024.76,3,5,Disbursed
+INV-00044,2026-08-30,2026-08-31,FHA,N,Servicing Agent,778.58,0,1,Disbursed
+INV-00045,2026-02-28,2026-03-01,Conventional,N,Servicing Agent,2511.73,0,1,Disbursed
+INV-00046,2026-02-14,2026-02-17,FHA,N,Servicing Agent,4257.0,0,3,Discarded-Duplicate
+INV-00047,2026-05-26,2026-05-28,Conventional,Y,Servicing Agent,4693.14,1,2,Disbursed
+INV-00048,2026-02-13,2026-02-19,FHA,Y,Servicing Agent,4371.86,5,6,Discarded-Duplicate
+INV-00049,2026-08-11,2026-08-17,Conventional,Y,Vendor,5201.69,4,6,Disbursed
+INV-00050,2026-01-16,2026-01-21,Conventional,Y,Vendor,3577.33,2,5,Disbursed
+INV-00051,2026-04-24,2026-04-25,VA,N,Servicing Agent,3541.7,0,1,Disbursed
+INV-00052,2026-08-06,2026-08-09,FHA,N,Servicing Agent,594.7,0,3,Disbursed
+INV-00053,2026-04-08,2026-04-09,Conventional,N,Servicing Agent,4251.56,0,1,Disbursed
+INV-00054,2026-04-05,2026-04-07,VA,N,Servicing Agent,5765.72,0,2,Disbursed
+INV-00055,2026-03-06,2026-03-07,Conventional,N,Servicing Agent,4658.9,0,1,Disbursed
+INV-00056,2026-03-31,,VA,N,Servicing Agent,1910.81,0,,Pending
+INV-00057,2026-07-25,2026-07-27,FHA,N,Servicing Agent,1517.5,0,2,Disbursed
+INV-00058,2026-08-28,2026-08-30,Conventional,N,Servicing Agent,4211.19,0,2,Disbursed
+INV-00059,2026-04-17,2026-04-20,VA,Y,Vendor,4325.18,1,3,Disbursed
+INV-00060,2026-08-08,2026-08-09,FHA,N,Servicing Agent,3746.45,0,1,Disbursed
+INV-00061,2026-03-13,2026-03-20,VA,Y,Vendor,2902.9,5,7,Disbursed
+INV-00062,2026-05-15,2026-05-21,Conventional,Y,Vendor,359.89,5,6,Disbursed
+INV-00063,2026-08-29,2026-09-01,VA,N,Servicing Agent,2480.7,0,3,Discarded-Duplicate
+INV-00064,2026-01-22,2026-01-24,FHA,N,Servicing Agent,4560.56,0,2,Disbursed
+INV-00065,2026-03-22,2026-03-25,FHA,N,Vendor,4428.67,0,3,Disbursed
+INV-00066,2026-05-26,2026-06-02,VA,Y,Servicing Agent,3950.76,4,7,Disbursed
+INV-00067,2026-03-23,2026-03-24,FHA,N,Servicing Agent,2864.85,0,1,Disbursed
+INV-00068,2026-06-02,2026-06-04,FHA,N,Vendor,4302.42,0,2,Disbursed
+INV-00069,2026-05-15,2026-05-18,VA,N,Servicing Agent,2010.15,0,3,Disbursed
+INV-00070,2026-06-23,2026-06-25,Conventional,N,Vendor,1664.15,0,2,Disbursed
+INV-00071,2026-02-24,2026-02-26,VA,Y,Servicing Agent,3014.18,1,2,Disbursed
+INV-00072,2026-08-19,2026-08-20,VA,N,Vendor,3242.11,0,1,Discarded-Duplicate
+INV-00073,2026-03-08,2026-03-10,FHA,Y,Servicing Agent,1378.94,1,2,Resubmitted
+INV-00074,2026-09-07,2026-09-09,VA,N,Servicing Agent,5717.2,0,2,Disbursed
+INV-00075,2026-02-05,,VA,N,Vendor,5907.73,0,,Pending
+INV-00076,2026-08-21,2026-08-24,FHA,N,Vendor,5598.67,0,3,Disbursed
+INV-00077,2026-07-14,2026-07-16,Conventional,N,Vendor,4830.01,0,2,Disbursed
+INV-00078,2026-05-18,2026-05-19,FHA,N,Servicing Agent,4524.24,0,1,Disbursed
+INV-00079,2026-03-06,2026-03-12,Conventional,Y,Servicing Agent,1702.88,3,6,Disbursed
+INV-00080,2026-07-01,2026-07-04,FHA,Y,Vendor,3524.28,2,3,Disbursed
+INV-00081,2026-04-21,2026-04-27,VA,Y,Servicing Agent,5361.88,4,6,Resubmitted
+INV-00082,2026-07-19,2026-07-21,FHA,N,Vendor,4757.83,0,2,Disbursed
+INV-00083,2026-08-11,2026-08-13,VA,N,Servicing Agent,3206.14,0,2,Disbursed
+INV-00084,2026-03-15,2026-03-16,FHA,N,Vendor,4586.46,0,1,Disbursed
+INV-00085,2026-08-08,2026-08-09,VA,N,Servicing Agent,5655.53,0,1,Disbursed
+INV-00086,2026-06-05,2026-06-06,VA,N,Vendor,1143.84,0,1,Disbursed
+INV-00087,2026-05-03,2026-05-08,Conventional,Y,Vendor,2262.05,3,5,Disbursed
+INV-00088,2026-07-18,2026-07-20,FHA,N,Vendor,5234.23,0,2,Resubmitted
+INV-00089,2026-05-05,2026-05-11,Conventional,Y,Servicing Agent,4920.21,5,6,Disbursed
+INV-00090,2026-06-20,2026-06-22,Conventional,Y,Servicing Agent,1745.49,1,2,Disbursed
+INV-00091,2026-05-06,2026-05-09,FHA,N,Vendor,4836.35,0,3,Disbursed
+INV-00092,2026-02-16,2026-02-19,Conventional,N,Servicing Agent,5993.62,0,3,Discarded-Duplicate
+INV-00093,2026-02-01,2026-02-03,VA,N,Vendor,2670.43,0,2,Disbursed
+INV-00094,2026-07-07,2026-07-15,Conventional,Y,Servicing Agent,4428.58,5,8,Disbursed
+INV-00095,2026-03-23,2026-03-26,VA,N,Servicing Agent,2381.14,0,3,Disbursed
+INV-00096,2026-04-24,2026-04-25,VA,N,Vendor,424.02,0,1,Disbursed
+INV-00097,2026-04-22,2026-04-23,FHA,N,Vendor,4487.76,0,1,Disbursed
+INV-00098,2026-04-26,2026-05-04,VA,Y,Vendor,3069.51,5,8,Disbursed
+INV-00099,2026-08-04,2026-08-06,Conventional,N,Servicing Agent,1981.73,0,2,Disbursed
+INV-00100,2026-04-30,2026-05-07,VA,Y,Vendor,2317.92,4,7,Disbursed
+INV-00101,2026-05-11,2026-05-12,Conventional,N,Vendor,5017.32,0,1,Disbursed
+INV-00102,2026-04-02,2026-04-10,VA,Y,Servicing Agent,3372.27,5,8,Disbursed
+INV-00103,2026-02-22,2026-02-28,Conventional,Y,Vendor,4128.53,4,6,Disbursed
+INV-00104,2026-05-10,2026-05-11,FHA,N,Servicing Agent,2715.75,0,1,Disbursed
+INV-00105,2026-03-08,2026-03-15,VA,Y,Vendor,2839.2,5,7,Disbursed
+INV-00106,2026-07-14,,FHA,N,Vendor,2143.74,0,,Pending
+INV-00107,2026-03-05,2026-03-09,VA,Y,Servicing Agent,1470.51,2,4,Disbursed
+INV-00108,2026-07-13,2026-07-16,VA,N,Vendor,6085.99,0,3,Disbursed
+INV-00109,2026-08-06,2026-08-10,FHA,Y,Servicing Agent,4491.91,2,4,Disbursed
+INV-00110,2026-02-06,2026-02-10,VA,Y,Servicing Agent,4081.54,1,4,Disbursed
+INV-00111,2026-07-16,2026-07-17,FHA,N,Vendor,3150.48,0,1,Disbursed
+INV-00112,2026-04-02,2026-04-05,Conventional,Y,Servicing Agent,2694.14,1,3,Disbursed
+INV-00113,2026-01-23,2026-01-26,Conventional,N,Servicing Agent,5095.18,0,3,Disbursed
+INV-00114,2026-09-04,2026-09-07,FHA,Y,Servicing Agent,4887.81,2,3,Disbursed
+INV-00115,2026-04-12,2026-04-14,VA,N,Vendor,2136.47,0,2,Disbursed
+INV-00116,2026-06-12,2026-06-14,Conventional,Y,Vendor,4213.5,1,2,Disbursed
+INV-00117,2026-02-14,2026-02-20,Conventional,Y,Vendor,2985.45,5,6,Disbursed
+INV-00118,2026-06-06,2026-06-07,FHA,N,Vendor,4462.48,0,1,Disbursed
+INV-00119,2026-05-01,2026-05-05,VA,Y,Servicing Agent,2837.06,2,4,Disbursed
+INV-00120,2026-05-24,2026-05-28,Conventional,Y,Servicing Agent,1320.65,2,4,Disbursed
+INV-00121,2026-03-24,2026-03-27,FHA,N,Servicing Agent,3091.88,0,3,Disbursed
+INV-00122,2026-03-23,2026-03-25,VA,N,Vendor,2910.89,0,2,Disbursed
+INV-00123,2026-06-07,2026-06-14,VA,Y,Vendor,501.31,4,7,Disbursed
+INV-00124,2026-03-04,2026-03-07,Conventional,N,Vendor,3721.04,0,3,Disbursed
+INV-00125,2026-07-19,2026-07-21,VA,N,Vendor,5709.03,0,2,Disbursed
+INV-00126,2026-02-20,2026-02-22,FHA,N,Servicing Agent,3099.56,0,2,Disbursed
+INV-00127,2026-04-19,2026-04-21,FHA,Y,Vendor,2036.07,1,2,Disbursed
+INV-00128,2026-09-03,2026-09-06,FHA,N,Servicing Agent,2189.93,0,3,Disbursed
+INV-00129,2026-03-28,2026-04-04,VA,Y,Vendor,2767.5,4,7,Disbursed
+INV-00130,2026-02-22,2026-02-25,FHA,N,Vendor,4795.94,0,3,Resubmitted
+INV-00131,2026-02-26,2026-03-02,VA,Y,Vendor,1060.34,2,4,Disbursed
+INV-00132,2026-09-11,2026-09-12,Conventional,N,Vendor,3572.41,0,1,Discarded-Duplicate
+INV-00133,2026-05-26,2026-05-27,FHA,N,Servicing Agent,4139.1,0,1,Disbursed
+INV-00134,2026-02-13,2026-02-16,VA,N,Vendor,2780.62,0,3,Disbursed
+INV-00135,2026-05-08,2026-05-09,VA,N,Servicing Agent,2593.98,0,1,Disbursed
+INV-00136,2026-08-28,2026-08-31,Conventional,N,Vendor,4870.15,0,3,Disbursed
+INV-00137,2026-08-11,2026-08-14,Conventional,N,Vendor,4597.4,0,3,Disbursed
+INV-00138,2026-08-07,2026-08-10,Conventional,N,Vendor,3500.7,0,3,Disbursed
+INV-00139,2026-04-03,2026-04-10,FHA,Y,Servicing Agent,6087.53,5,7,Disbursed
+INV-00140,2026-03-07,2026-03-08,FHA,N,Servicing Agent,2211.33,0,1,Resubmitted
+INV-00141,2026-05-06,2026-05-08,VA,N,Servicing Agent,3247.67,0,2,Disbursed
+INV-00142,2026-01-14,2026-01-21,FHA,Y,Servicing Agent,3426.81,5,7,Disbursed
+INV-00143,2026-05-01,,Conventional,Y,Servicing Agent,3096.52,2,,Pending
+INV-00144,2026-09-10,2026-09-18,VA,Y,Servicing Agent,5332.83,5,8,Disbursed
+INV-00145,2026-08-11,2026-08-14,FHA,N,Vendor,5453.44,0,3,Disbursed
+INV-00146,2026-01-14,2026-01-15,VA,N,Vendor,6184.94,0,1,Disbursed
+INV-00147,2026-07-15,2026-07-19,Conventional,Y,Vendor,1323.23,1,4,Discarded-Duplicate
+INV-00148,2026-03-22,2026-03-23,Conventional,N,Vendor,2447.01,0,1,Disbursed
+INV-00149,2026-04-25,2026-05-02,VA,Y,Servicing Agent,1344.4,5,7,Disbursed
+INV-00150,2026-01-25,2026-01-27,VA,N,Servicing Agent,3261.35,0,2,Disbursed
